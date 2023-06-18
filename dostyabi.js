@@ -1,20 +1,18 @@
 const firstObcet = {
- tehran: { Sara : {
+ Tehran: { Sara : {
     age : 22,
-    living: "tehran",
   },
   Nazanin:{
-    age : 18,
-    living :"tehran"
+    age : 18
   },
 },
+Kashan :{
  Maryam : {
-  age : 20 ,
-  living:"mashad"
+  age : 20 
   },
   Kimiya : {
     age : 24 ,
-    living: "kashan",
   }
 }
-console.log(firstObcet.tehran)
+}
+console.log(firstObcet.Tehran)
