@@ -1,4 +1,4 @@
-const girls = {
+let girls = {
  Tehran: { Sara : {
     age : 22,
   },
@@ -15,4 +15,3 @@ Kashan :{
   }
 }
 }
-console.log(girls.Tehran)
