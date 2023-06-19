@@ -1,4 +1,4 @@
-const firstObcet = {
+const girls = {
  Tehran: { Sara : {
     age : 22,
   },
@@ -15,4 +15,4 @@ Kashan :{
   }
 }
 }
-console.log(firstObcet.Tehran)
+console.log(girls.Tehran)
