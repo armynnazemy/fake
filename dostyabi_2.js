@@ -19,4 +19,6 @@ let girls_2 = [
 ]
 for(let i=1;i<girls_2.length;i++){
     console.log(girls_2[i])
+    girls_2[i].age = girls_2[i].age + 2
+    console.log(girls_2[i])
 }
