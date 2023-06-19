@@ -17,3 +17,6 @@ let girls_2 = [
      age : 24
    }
 ]
+for(let i=1;i<girls_2.length;i++){
+    console.log(girls_2[i])
+}
